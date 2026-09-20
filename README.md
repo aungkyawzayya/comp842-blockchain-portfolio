@@ -8,7 +8,10 @@ individual technical assessment (Semester 2, 2026).
 | 1 | Blockchain structure, Merkle Root and tamper detection | [`ex1_blockchain.ipynb`](ex1_blockchain.ipynb) |
 | 2 | Proof of Work – mining, difficulty and probability | [`ex2_proof_of_work.ipynb`](ex2_proof_of_work.ipynb) |
 | 3 | Elliptic Curve Cryptography (ECDSA, public key compression) | [`ex3_ecdsa.ipynb`](ex3_ecdsa.ipynb) |
-| 6 | Solidity smart contract (modified Storage contract) | _coming soon_ |
+| 6 | Solidity smart contract (modified Storage contract) | [`ex6_contract/Storage.sol`](ex6_contract/Storage.sol) |
+
+Exercise 6 contract deployed to Ethereum Sepolia at
+[`0x770AaccD26ca3Cad01799fd994B8A0CA8a79DA50`](https://sepolia.etherscan.io/address/0x770AaccD26ca3Cad01799fd994B8A0CA8a79DA50).
 
 Exercises 4 (scalability calculations) and 5 (MetaMask / Sepolia transaction) have no code;
 they are answered in the submitted PDF.
