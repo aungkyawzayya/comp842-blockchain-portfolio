@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets - NEVER commit wallet keys or seed phrases
+.env
+*.pem
+*.key
+secrets/
+
+# Word lock files
+~$*
